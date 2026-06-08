@@ -2,4 +2,4 @@
 This test automation use
 launch the app
 enter the pin and
-click sign in
+click login button
