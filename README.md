@@ -1,5 +1,5 @@
 # Test-automation-project-1
 This test automation use
-laynch the app
+launch the app
 enter the pin and
 click sign in
