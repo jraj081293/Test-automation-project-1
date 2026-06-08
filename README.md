@@ -3,3 +3,4 @@ This test automation use
 launch the app
 enter the pin and
 click sign in
+go to settings
